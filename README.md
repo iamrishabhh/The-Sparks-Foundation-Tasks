@@ -10,7 +10,7 @@ This repository contains the tasks that I completed while working as an intern f
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-1_Linear_Regression.ipynb)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/iamrishabhh/The-Sparks-Foundation-Tasks/blob/main/Task%20_1.ipynb)
 
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
