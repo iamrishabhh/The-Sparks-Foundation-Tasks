@@ -19,7 +19,7 @@ This repository contains the tasks that I completed while working as an intern f
 1. This is a simple linear regression task as it involves just 2 variables.
 1. Data can be found at [http://bit.ly/w](http://bit.ly/w)
 1. You can use R, Python, SAS Enterprise Miner or any other tool.
-1. What will be predicted score if a student studies for 9.25 hrs/ day?
+
 
 ### # Task-2 : Prediction using Unsupervised ML (Level - Beginner)
 
@@ -28,4 +28,4 @@ This repository contains the tasks that I completed while working as an intern f
 and represent it visually.
 1. Use R or Python or perform this task
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
-1. You can use R, Python, SAS Enterprise Miner or any other tool.
+
